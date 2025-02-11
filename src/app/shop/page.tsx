@@ -64,7 +64,7 @@ return[...prevcategories,category];
         <ul className="text-white flex justify-center space-x-2 mt-2    " >
             <li><a href="/hero" className=" hover:text-[#ff9f0d] ">home   </a></li>
             <li className="">&gt;</li>
-            <li><a href="/shop-details" className="hover:text-[#ff9f0d] ">Shop details</a></li>
+            <li><a href="/shop" className="hover:text-[#ff9f0d] ">Shop details</a></li>
         </ul>
         </div>
         
